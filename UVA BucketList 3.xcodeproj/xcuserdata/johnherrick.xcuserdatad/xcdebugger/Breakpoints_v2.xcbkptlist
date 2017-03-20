@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVA BucketList 3/ViewController.swift"
+            timestampString = "509237996.515623"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVA BucketList 3/AddItemViewController.swift"
+            timestampString = "509131919.317689"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "addBucketItem(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVA BucketList 3/ViewController.swift"
+            timestampString = "509241232.065724"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVA BucketList 3/EditItemViewController.swift"
+            timestampString = "509224159.310012"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVA BucketList 3/ViewController.swift"
+            timestampString = "509241232.065724"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "tableView(_:editActionsForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVA BucketList 3/EditItemViewController.swift"
+            timestampString = "509224330.45902"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVA BucketList 3/EditItemViewController.swift"
+            timestampString = "509224333.072548"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "EditItemViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.text.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224461.786274"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.text.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224461.788338"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; UVA_BucketList_3.EditItemViewController"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224461.790334"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;UVA_BucketList_3.EditItemViewController&gt;"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224461.792126"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVA BucketList 3/EditItemViewController.swift"
+            timestampString = "509224338.152634"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "EditItemViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.longitudeText.getter : Swift.String"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224461.79733"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.longitudeText.setter : Swift.String"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224461.799772"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; UVA_BucketList_3.EditItemViewController"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224461.801553"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "347">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;UVA_BucketList_3.EditItemViewController&gt;"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224461.80324"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVA BucketList 3/EditItemViewController.swift"
+            timestampString = "509224480.442368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "EditItemViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.latitudeText.getter : Swift.String"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224480.450025"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.latitudeText.setter : Swift.String"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224480.453014"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; UVA_BucketList_3.EditItemViewController"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224480.456085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "319">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;UVA_BucketList_3.EditItemViewController&gt;"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224480.458435"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVA BucketList 3/EditItemViewController.swift"
+            timestampString = "509224481.045579"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "EditItemViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.descriptionText.getter : Swift.String"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224481.049872"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.descriptionText.setter : Swift.String"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224481.05269"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; UVA_BucketList_3.EditItemViewController"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224481.054265"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "375">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UVA_BucketList_3.EditItemViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;UVA_BucketList_3.EditItemViewController&gt;"
+                  moduleName = "UVA BucketList 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnherrick/Documents/iOS%20Developer/UVA%20BucketList%203/UVA%20BucketList%203/EditItemViewController.swift"
+                  timestampString = "509224481.055578"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVA BucketList 3/ViewController.swift"
+            timestampString = "509241232.065724"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UVA BucketList 3/ViewController.swift"
+            timestampString = "509241232.065724"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
